@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "FPSdemo",
+			"Path": "D:\\productofunreal\\homework\\第二次作业\\FPSdemo\\Source\\FPSdemo.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FPSdemoEditor",
+			"Path": "D:\\productofunreal\\homework\\第二次作业\\FPSdemo\\Source\\FPSdemoEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

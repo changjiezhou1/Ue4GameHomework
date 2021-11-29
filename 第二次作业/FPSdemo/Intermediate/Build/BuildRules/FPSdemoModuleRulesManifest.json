@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\productofunreal\\homework\\第二次作业\\FPSdemo\\Source\\FPSdemo\\FPSdemo.Build.cs",
+		"D:\\productofunreal\\homework\\第二次作业\\FPSdemo\\Source\\FPSdemo.Target.cs",
+		"D:\\productofunreal\\homework\\第二次作业\\FPSdemo\\Source\\FPSdemoEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

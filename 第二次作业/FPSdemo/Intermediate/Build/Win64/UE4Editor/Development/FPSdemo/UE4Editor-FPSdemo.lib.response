@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-FPSdemo.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\FPSdemoEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\UE4Editor\Development\FPSdemo\FPSdemo.cpp.obj"
+"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\UE4Editor\Development\FPSdemo\GunCamo.cpp.obj"
+"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\UE4Editor\Development\FPSdemo\FPSdemo.init.gen.cpp.obj"
+"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\UE4Editor\Development\FPSdemo\GunCamo.gen.cpp.obj"
+"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\UE4Editor\Development\FPSdemo\Default.rc2.res"
+/OUT:"D:\productofunreal\homework\第二次作业\FPSdemo\Intermediate\Build\Win64\UE4Editor\Development\FPSdemo\UE4Editor-FPSdemo.lib"
+/INCLUDE:IMPLEMENT_MODULE_FPSdemo
